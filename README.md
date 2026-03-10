@@ -18,7 +18,7 @@ To develop a convolutional autoencoder for image denoising application.
 Write your own steps
 
 ## PROGRAM
-### Name:
+### Name:PRAGATHI KUMAR
 ### Register Number:
 
 
